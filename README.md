@@ -1,9 +1,6 @@
 ﻿Pokemon Showdown Bot for Node
 ====================
 
-[![Build Status](https://travis-ci.org/Ecuacion/Pokemon-Showdown-Node-Bot.svg)](https://travis-ci.org/Ecuacion/Pokemon-Showdown-Node-Bot)
-[![Dependency Status](https://david-dm.org/Ecuacion/Pokemon-Showdown-Node-Bot.svg)](https://david-dm.org/Ecuacion/Pokemon-Showdown-Node-Bot)
-[![devDependency Status](https://david-dm.org/Ecuacion/Pokemon-Showdown-Node-Bot/dev-status.svg)](https://david-dm.org/Ecuacion/Pokemon-Showdown-Node-Bot#info=devDependencies)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://opensource.org/licenses/MIT)
 
 This is a [Pokemon Showdown](https://github.com/Zarel/Pokemon-Showdown) bot written in JavaScript for [Node](http://nodejs.org/), based on [Pokemon Showdown Bot](https://github.com/TalkTakesTime/Pokemon-Showdown-Bot). 
@@ -121,16 +118,7 @@ Once copied `config.js` from `config-example.js` you can edit config options to 
 Credits
 -----------
 
- - [Ecuacion](https://github.com/Ecuacion/) (Owner)
- 
-Contributors:
+ - [Ecuacion](https://github.com/Ecuacion/) (Code & Other Things)
+	And his team
 
- - [Irraquated](https://github.com/Irraquated) (Languages and bug fixes)
- - [panpawn](https://github.com/panpawn) (YouTube feature, fixes)
- - [Spudling](https://github.com/Spudling) (German translation)
-
-Part of this code is imported from other developments, so credits to:
-		
- - Quinella, [Morfent](https://github.com/Morfent) and [TalkTakesTime](https://github.com/TalkTakesTime) developers of [Pokemon-Showdown-Bot](https://github.com/TalkTakesTime/Pokemon-Showdown-Bot)
- - [Guangcong Luo](https://github.com/Zarel) and other contributors of [Pokemon Showdown](https://github.com/Zarel/Pokemon-Showdown)
- 
+- [Champ1604](https://github.com/Champ1604) (Owner of this bot)
